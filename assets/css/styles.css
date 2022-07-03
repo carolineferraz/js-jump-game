@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Mono&family=Syncopate&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+}
+
+p {
+    position: absolute;
+    color: #4b4b4b;
+    font-size: 1.5rem;
 }
 
 .game-board {
