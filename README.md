@@ -2,8 +2,9 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/95757534/177064753-b2687300-7240-49ff-b5ec-22939b625df4.gif">
+<img src="">
 </p>
 
+![mario-walking](https://user-images.githubusercontent.com/95757534/177066422-b8cad3e6-2fde-44b4-8c9f-6753b11eed8c.gif)
 
 <h2 align="center">&#x1F47B; <a href="https://carolineferraz.github.io/js-jump-game/">carolineferraz.github.io/js-jump-game</a> &#x1F47B;</h2>
