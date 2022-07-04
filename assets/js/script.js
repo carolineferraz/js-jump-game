@@ -31,6 +31,10 @@ const loop = setInterval(() => {
         mario.style.marginLeft = '36px';
 
         clearInterval(loop);
+
+        document.addEventListener('keydown', function() {
+            location.reload();
+        });
     }
 
 }, 10);
